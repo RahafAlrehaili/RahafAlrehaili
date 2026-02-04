@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @RahafAlrehaili
-- 👀 I’m interested in Data Analysis...
+- 👀 Data Analysis
+- SQL-Excel-Power Bi-Python.
+
   
 
 <!---
